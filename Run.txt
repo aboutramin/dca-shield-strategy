@@ -1,0 +1,1 @@
+.\venv\Scripts\python.exe -m pip install requests; .\venv\Scripts\python.exe crypto.py
