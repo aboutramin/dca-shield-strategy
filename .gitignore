@@ -9,3 +9,6 @@ cache/
 .cache/
 __pycache__/
 *.pyc
+
+# JetBrains IDE local settings
+.idea/
